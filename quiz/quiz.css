@@ -1,0 +1,80 @@
+.content {
+    margin-top: 30px;
+    /* background-image: url(jj.jpg);
+    background-size: cover; */
+    background: #93b0b0;
+    max-width: 600px;
+    width: 70%;
+    padding: 10px 10px;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  
+  
+    }
+    body{
+        background-image: url(uio.jpg);
+        background-size: cover;
+    }
+    
+    
+    
+    .header {
+    padding: 30px;
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+    /* z-index: 9999;
+    */
+background-color: #84c5fe;
+    }
+    .left-title {
+    width: 250px;
+    color: #fff;
+    font-size: 20px;
+    float: left;
+    }
+    .right-title {
+    width: 250px;
+    text-align: right;
+    float: right;
+    color: #ffffff;
+    font-size: 20px;
+    }
+    .quiz-body {
+    margin-top: 15px;
+    /* padding-bottom: 80%; */
+    }
+    .option-block-container {
+    margin-top: 50px;
+    max-width: 100%;
+    float: center;
+    }
+    .option-block {
+    padding: 10px;
+    background: aliceblue;
+    border: 1px solid #84c5fe;
+    margin-bottom: 20px;
+    cursor: pointer;
+    }
+    .result-question {
+    font-weight: bold;
+    }
+    .c-wrong {
+    margin-left: 20px;
+    color: #ff0000;
+    }
+    .c-correct {
+    margin-left: 20px;
+    color: green;
+    }
+    .last-row {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    }
+    .res-header {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    }
